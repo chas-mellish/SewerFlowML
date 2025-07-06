@@ -1,5 +1,5 @@
 # SewerFlowML
-Sewer flow analysis using Machine Learning isolating infiltration inflows over seasonal vaiations 
+Sewer flow analysis using Machine Learning isolating infiltration inflows over seasonal vaiations. This site is documenting the inetgration of several data ans=lyssis technolgies. Once complete, this page will reflect the results of the machine learning analysis and will then be developed further.  
 
 📨 1. GitHub Discussions Welcome Post
 
